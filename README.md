@@ -28,7 +28,7 @@ CatchHub is a clone project that I built for practice purposes when I was new to
 ### Links
 
 - Solution URL: [https://github.com/HooriaSaeeda/CatchHub.git](https://github.com/HooriaSaeeda/CatchHub.git)
-- Live Site URL: [https://hoor23.github.io/CatchHub/](https://hoor23.github.io/CatchHub/)
+- Live Site URL: [https://hooriasaeeda.github.io/CatchHub/](https://hooriasaeeda.github.io/CatchHub/)
 
 ## My process
 
@@ -56,9 +56,9 @@ Looking forward, I plan to:
 - Refactor the code to follow best practices I have learned since building this project.
 
 ## Author
-- Frontend Mentor - [hoor23](https://www.frontendmentor.io/profile/hoor23)
-- Github - [hoor23](https://github.com/hoor23)
-- LinkedIn - [Hoor Seyda](www.linkedin.com/in/hoor-seyda-901176222)
+- Github - [HooriaSaeeda](https://github.com/HooriaSaeeda)
+- Frontend Mentor - [HooriaSaeeda](https://www.frontendmentor.io/profile/HooriaSaeeda)
+- Linkedin - [Hoor Seyda](linkedin.com/in/hoor-seyda-901176222)
 
 ## Acknowledgments
 
